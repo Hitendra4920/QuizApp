@@ -20,6 +20,9 @@ Unit tests for service layers to ensure functionality.
 
 
 
+
+
+
 2.Setup and Run Locally
 
 Clone or Download the Project
@@ -68,6 +71,9 @@ POST /api/submissions/{quizId} → Submit answers
 
 
 
+
+
+
 3.Running Test Cases Locally
 
 Ensure Dependencies are Installed
@@ -98,6 +104,9 @@ Right-click on the test class or individual test method.
 Select Run As → JUnit Test (in Spring Tool Suite or IntelliJ IDEA).
 
 The console will show the results (green = passed, red = failed).
+
+
+
 
 
 
